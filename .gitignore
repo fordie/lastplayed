@@ -25,5 +25,3 @@ coverage
 # Benchmarking
 benchmarks/graphs
 
-# Secrets
-modules/apikeys.js
